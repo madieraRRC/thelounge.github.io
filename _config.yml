@@ -9,3 +9,5 @@ gems:
 collections:
   docs:
     output: true
+
+theme: jekyll-theme-cayman
